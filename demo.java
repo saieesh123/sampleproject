@@ -7,4 +7,7 @@ class add()
     public statis void main(){
         system.out.println("saieesh");
     }
+    public statis void main(){
+        system.out.println("kivviu");
+    }
 }
